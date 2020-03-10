@@ -1,4 +1,4 @@
-FROM gelbpunkt/python:latest
+FROM tavernsws/python:latest
 
 WORKDIR /idlerpg
 COPY requirements.txt .
